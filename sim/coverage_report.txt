@@ -91,3 +91,9 @@ Coverage Report Summary Data by DU
 
 Total Coverage By Design Unit (filtered view): 56.49%
 
+
+
+
+![image](https://user-images.githubusercontent.com/72481400/118079827-7c9d7800-b3d6-11eb-8f83-132e3920b3b4.png)
+
+
